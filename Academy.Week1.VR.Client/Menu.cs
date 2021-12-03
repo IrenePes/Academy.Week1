@@ -31,7 +31,7 @@ namespace Academy.Week1.VR.Client
                     "Scegli [4] per visualizzare i noleggi attivi.\n" + 
                     "Scegli [5] per inserire un nuovo noleggio.\n" + 
                     "Scegli [6] per calcolare il totale in euro dei noleggi.\n" + 
-                    "Scegli [7] per ricavare il totale in euro dei noleggi di automobili." +
+                    "Scegli [7] per ricavare il totale in euro dei noleggi di automobili.\n" +
                     "Scegli [Q] per uscire.");
 
                 choice = Console.ReadKey().KeyChar;
